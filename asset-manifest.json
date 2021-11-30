@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/soccerReactQuery/static/css/main.34fbd58d.chunk.css",
-    "main.js": "/soccerReactQuery/static/js/main.ea6e3d43.chunk.js",
-    "main.js.map": "/soccerReactQuery/static/js/main.ea6e3d43.chunk.js.map",
+    "main.js": "/soccerReactQuery/static/js/main.f1f8e1a3.chunk.js",
+    "main.js.map": "/soccerReactQuery/static/js/main.f1f8e1a3.chunk.js.map",
     "runtime-main.js": "/soccerReactQuery/static/js/runtime-main.c3658f33.js",
     "runtime-main.js.map": "/soccerReactQuery/static/js/runtime-main.c3658f33.js.map",
     "static/css/2.835e987b.chunk.css": "/soccerReactQuery/static/css/2.835e987b.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.835e987b.chunk.css",
     "static/js/2.caecda21.chunk.js",
     "static/css/main.34fbd58d.chunk.css",
-    "static/js/main.ea6e3d43.chunk.js"
+    "static/js/main.f1f8e1a3.chunk.js"
   ]
 }
