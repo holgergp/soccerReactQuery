@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/soccerReduxToolkit/static/css/main.34fbd58d.chunk.css",
-    "main.js": "/soccerReduxToolkit/static/js/main.e265d484.chunk.js",
-    "main.js.map": "/soccerReduxToolkit/static/js/main.e265d484.chunk.js.map",
+    "main.js": "/soccerReduxToolkit/static/js/main.31542be1.chunk.js",
+    "main.js.map": "/soccerReduxToolkit/static/js/main.31542be1.chunk.js.map",
     "runtime-main.js": "/soccerReduxToolkit/static/js/runtime-main.7b0ae1ba.js",
     "runtime-main.js.map": "/soccerReduxToolkit/static/js/runtime-main.7b0ae1ba.js.map",
     "static/css/2.835e987b.chunk.css": "/soccerReduxToolkit/static/css/2.835e987b.chunk.css",
-    "static/js/2.1cff4bed.chunk.js": "/soccerReduxToolkit/static/js/2.1cff4bed.chunk.js",
-    "static/js/2.1cff4bed.chunk.js.map": "/soccerReduxToolkit/static/js/2.1cff4bed.chunk.js.map",
+    "static/js/2.605fabcb.chunk.js": "/soccerReduxToolkit/static/js/2.605fabcb.chunk.js",
+    "static/js/2.605fabcb.chunk.js.map": "/soccerReduxToolkit/static/js/2.605fabcb.chunk.js.map",
     "index.html": "/soccerReduxToolkit/index.html",
     "static/css/2.835e987b.chunk.css.map": "/soccerReduxToolkit/static/css/2.835e987b.chunk.css.map",
     "static/css/main.34fbd58d.chunk.css.map": "/soccerReduxToolkit/static/css/main.34fbd58d.chunk.css.map",
-    "static/js/2.1cff4bed.chunk.js.LICENSE.txt": "/soccerReduxToolkit/static/js/2.1cff4bed.chunk.js.LICENSE.txt"
+    "static/js/2.605fabcb.chunk.js.LICENSE.txt": "/soccerReduxToolkit/static/js/2.605fabcb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7b0ae1ba.js",
     "static/css/2.835e987b.chunk.css",
-    "static/js/2.1cff4bed.chunk.js",
+    "static/js/2.605fabcb.chunk.js",
     "static/css/main.34fbd58d.chunk.css",
-    "static/js/main.e265d484.chunk.js"
+    "static/js/main.31542be1.chunk.js"
   ]
 }
