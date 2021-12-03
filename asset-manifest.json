@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/soccerReactQuery/static/css/main.34fbd58d.chunk.css",
-    "main.js": "/soccerReactQuery/static/js/main.06eb9d5b.chunk.js",
-    "main.js.map": "/soccerReactQuery/static/js/main.06eb9d5b.chunk.js.map",
-    "runtime-main.js": "/soccerReactQuery/static/js/runtime-main.c3658f33.js",
-    "runtime-main.js.map": "/soccerReactQuery/static/js/runtime-main.c3658f33.js.map",
-    "static/css/2.835e987b.chunk.css": "/soccerReactQuery/static/css/2.835e987b.chunk.css",
-    "static/js/2.caecda21.chunk.js": "/soccerReactQuery/static/js/2.caecda21.chunk.js",
-    "static/js/2.caecda21.chunk.js.map": "/soccerReactQuery/static/js/2.caecda21.chunk.js.map",
-    "index.html": "/soccerReactQuery/index.html",
-    "static/css/2.835e987b.chunk.css.map": "/soccerReactQuery/static/css/2.835e987b.chunk.css.map",
-    "static/css/main.34fbd58d.chunk.css.map": "/soccerReactQuery/static/css/main.34fbd58d.chunk.css.map",
-    "static/js/2.caecda21.chunk.js.LICENSE.txt": "/soccerReactQuery/static/js/2.caecda21.chunk.js.LICENSE.txt"
+    "main.css": "/soccerReduxToolkit/static/css/main.34fbd58d.chunk.css",
+    "main.js": "/soccerReduxToolkit/static/js/main.e265d484.chunk.js",
+    "main.js.map": "/soccerReduxToolkit/static/js/main.e265d484.chunk.js.map",
+    "runtime-main.js": "/soccerReduxToolkit/static/js/runtime-main.7b0ae1ba.js",
+    "runtime-main.js.map": "/soccerReduxToolkit/static/js/runtime-main.7b0ae1ba.js.map",
+    "static/css/2.835e987b.chunk.css": "/soccerReduxToolkit/static/css/2.835e987b.chunk.css",
+    "static/js/2.1cff4bed.chunk.js": "/soccerReduxToolkit/static/js/2.1cff4bed.chunk.js",
+    "static/js/2.1cff4bed.chunk.js.map": "/soccerReduxToolkit/static/js/2.1cff4bed.chunk.js.map",
+    "index.html": "/soccerReduxToolkit/index.html",
+    "static/css/2.835e987b.chunk.css.map": "/soccerReduxToolkit/static/css/2.835e987b.chunk.css.map",
+    "static/css/main.34fbd58d.chunk.css.map": "/soccerReduxToolkit/static/css/main.34fbd58d.chunk.css.map",
+    "static/js/2.1cff4bed.chunk.js.LICENSE.txt": "/soccerReduxToolkit/static/js/2.1cff4bed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3658f33.js",
+    "static/js/runtime-main.7b0ae1ba.js",
     "static/css/2.835e987b.chunk.css",
-    "static/js/2.caecda21.chunk.js",
+    "static/js/2.1cff4bed.chunk.js",
     "static/css/main.34fbd58d.chunk.css",
-    "static/js/main.06eb9d5b.chunk.js"
+    "static/js/main.e265d484.chunk.js"
   ]
 }
