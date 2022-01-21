@@ -6,17 +6,17 @@
     "runtime-main.js": "/soccerReactQuery/static/js/runtime-main.c3658f33.js",
     "runtime-main.js.map": "/soccerReactQuery/static/js/runtime-main.c3658f33.js.map",
     "static/css/2.9ec07ce6.chunk.css": "/soccerReactQuery/static/css/2.9ec07ce6.chunk.css",
-    "static/js/2.ff8069d4.chunk.js": "/soccerReactQuery/static/js/2.ff8069d4.chunk.js",
-    "static/js/2.ff8069d4.chunk.js.map": "/soccerReactQuery/static/js/2.ff8069d4.chunk.js.map",
+    "static/js/2.c3979b00.chunk.js": "/soccerReactQuery/static/js/2.c3979b00.chunk.js",
+    "static/js/2.c3979b00.chunk.js.map": "/soccerReactQuery/static/js/2.c3979b00.chunk.js.map",
     "index.html": "/soccerReactQuery/index.html",
     "static/css/2.9ec07ce6.chunk.css.map": "/soccerReactQuery/static/css/2.9ec07ce6.chunk.css.map",
     "static/css/main.34fbd58d.chunk.css.map": "/soccerReactQuery/static/css/main.34fbd58d.chunk.css.map",
-    "static/js/2.ff8069d4.chunk.js.LICENSE.txt": "/soccerReactQuery/static/js/2.ff8069d4.chunk.js.LICENSE.txt"
+    "static/js/2.c3979b00.chunk.js.LICENSE.txt": "/soccerReactQuery/static/js/2.c3979b00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c3658f33.js",
     "static/css/2.9ec07ce6.chunk.css",
-    "static/js/2.ff8069d4.chunk.js",
+    "static/js/2.c3979b00.chunk.js",
     "static/css/main.34fbd58d.chunk.css",
     "static/js/main.9b82e45c.chunk.js"
   ]
