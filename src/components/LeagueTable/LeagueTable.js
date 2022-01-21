@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Position from '../Position/Position';
 import { DndProvider } from 'react-dnd';
 import { HTML5Backend } from 'react-dnd-html5-backend';
@@ -13,9 +13,11 @@ import { getSampleData } from '../../api/leagueTableApi';
 
 const LeagueTable = () => {
   const [positions, setPositions] = useState(SAMPLE_LEAGUE_TABLE);
+
   const { isLoading, error } = useQuery('sampleData', getSampleData, {
     onSuccess: setPositions,
   });
+
   if (isLoading) {
     return 'Loading...';
   }
